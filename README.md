@@ -1,2 +1,2 @@
 # Redux-App
-react + redux + vk api
+react + redux 
